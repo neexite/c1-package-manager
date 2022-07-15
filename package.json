@@ -8,7 +8,7 @@
     "build": "rimraf ./dist && cross-env NODE_ENV=production rollup --config"
   },
   "dependencies": {
-    "svelte": "^3.20.1"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@pyoner/svelte-types": "^3.4.4-2",
